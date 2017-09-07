@@ -1,4 +1,5 @@
-An index page for my starred repos. 
+# My stars
+An index page for my starred repos that worth reading. 
 
 ## Languages
 
